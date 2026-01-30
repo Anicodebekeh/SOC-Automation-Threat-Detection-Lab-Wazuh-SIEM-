@@ -33,6 +33,7 @@ The Wazuh Analysis Engine correlated the failed attempts and triggered a **High 
 
 ### 3. Visualizations
 <img width="1919" height="892" alt="Screenshot 2026-01-30 095947" src="https://github.com/user-attachments/assets/c023b8c1-830d-4d70-ad4f-d29f33441cd0" />
+<img width="1906" height="877" alt="Screenshot 2026-01-30 100820" src="https://github.com/user-attachments/assets/22183ef1-9bd6-4220-9af1-62cbe793e2cd" />
 
 ## 🚀 Key Achievements
 * Successfully installed and configured **Wazuh Manager** on a Linux VM.
