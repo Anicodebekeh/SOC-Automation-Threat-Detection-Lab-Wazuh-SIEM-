@@ -1,5 +1,5 @@
 # SOC Automation & Threat Detection Lab (Wazuh SIEM)
-![Uploading Screenshot 2026-01-29 163324.png…]()
+<img width="1919" height="1079" alt="Screenshot 2026-01-29 163324" src="https://github.com/user-attachments/assets/8aa4bf2c-de71-462b-9bdb-e3854621c53d" />
 
 ## Project Overview
 This project demonstrates the deployment of a Security Information and Event Management (SIEM) system using Wazuh. I built a virtualized lab environment to monitor Windows endpoints, analyze security telemetry, and detect active threats such as Brute Force attacks.
